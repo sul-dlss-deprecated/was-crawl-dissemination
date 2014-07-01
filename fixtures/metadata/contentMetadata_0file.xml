@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contentMetadata type="file" stacks="/web-archiving-stack/collectionId" id="druid:gh123gh1234">
+  <resource type="file">
+    <file dataType="general" publish="no" shelve="no" preserve="yes" id="test.txt" size="4" mimetype="text/plain">
+      <checksum type="MD5">e2fc714c4727ee9395f324cd2e7f331f</checksum>
+      <checksum type="SHA1">81fe8bfe87576c3ecb22426f8e57847382917acf</checksum>
+    </file>
+  </resource>
+</contentMetadata>

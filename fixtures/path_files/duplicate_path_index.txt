@@ -1,0 +1,3 @@
+ARC-Test.arc.gz	/Users/aalsum/Documents/CodeWorkspace/was-crawl-dissemination/fixtures/stacks/data/collections/test_collection/ARC-Test.arc.gz
+WARC-Test.warc.gz	/Users/aalsum/Documents/CodeWorkspace/was-crawl-dissemination/fixtures/stacks/data/collections/test_collection/WARC-Test.warc.gz
+a	data/a

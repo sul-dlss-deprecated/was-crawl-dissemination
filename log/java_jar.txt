@@ -1,0 +1,143 @@
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+fixtures/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+{@workspace}/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+{@workspace}/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+{@workspace}/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.
+{@workspace}/bb111bbb1111/WARC-Test.txt is not a readable file.
+Usage:
+
+extractor [OPT] SRC
+	SRC is the local path, HTTP or HDFS URL to an arc, warc, arc.gz, or warc.gz.
+	OPT can be one of:
+		-cdxURL	Produce output in old URL Wayback CDX format
+		-cdx	Produce output in NEW-SURT-Wayback CDX format
+			 (note that column 1 is NOT standard Wayback canonicalized)
+
+		-wat	embed JSON output in a compressed WARCwrapper, for storage, or sharing.

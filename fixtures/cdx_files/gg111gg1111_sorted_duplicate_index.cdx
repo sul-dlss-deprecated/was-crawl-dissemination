@@ -1,0 +1,12 @@
+a.org 20140119223738 http://www.a.org warc/metadata - H2KSHDFACTI7RVCGFAQBSBTN4YVRZJRX - - 2281 7599 WARC-Test.warc.gz
+a.org 20140119223738 http://www.a.org warc/metadata - H2KSHDFACTI7RVCGFAQBSBTN4YVRZJRX - - 2281 7599 WARC-Test.warc.gz
+a.org/index.html 20140119223744 http://www.a.org/index.html warc/request - 6K5TW233ZOE3HFR4BD3FSV2MZYK3CF2C - - 498 17288 WARC-Test.warc.gz
+a.org/index.html 20140119223744 http://www.a.org/index.html warc/request - 6K5TW233ZOE3HFR4BD3FSV2MZYK3CF2C - - 498 17288 WARC-Test.warc.gz
+b.org 20140119223752 http://www.b.org warc/metadata - PJKJQSS42QFKALLWSGN6PZT4X4ES5JWY - - 2269 53891 WARC-Test.warc.gz
+b.org 20140119223752 http://www.b.org warc/metadata - PJKJQSS42QFKALLWSGN6PZT4X4ES5JWY - - 2269 53891 WARC-Test.warc.gz
+b.org/index.html 20140119223815 http://www.b.org/index.html warc/request - IPMGR6YCR7CDVUD53OPSL3RJUI2CHQJL - - 463 118171 WARC-Test.warc.gz
+b.org/index.html 20140119223815 http://www.b.org/index.html warc/request - IPMGR6YCR7CDVUD53OPSL3RJUI2CHQJL - - 463 118171 WARC-Test.warc.gz
+c.org 20140119223752 http://www.c.org warc/metadata - PJKJQSS42QFKALLWSGN6PZT4X4ES5JWY - - 2269 53891 WARC-Test.warc.gz
+c.org 20140119223752 http://www.c.org warc/metadata - PJKJQSS42QFKALLWSGN6PZT4X4ES5JWY - - 2269 53891 WARC-Test.warc.gz
+c.org/index.html 20140119223815 http://www.c.org/index.html warc/request - IPMGR6YCR7CDVUD53OPSL3RJUI2CHQJL - - 463 118171 WARC-Test.warc.gz
+c.org/index.html 20140119223815 http://www.c.org/index.html warc/request - IPMGR6YCR7CDVUD53OPSL3RJUI2CHQJL - - 463 118171 WARC-Test.warc.gz
