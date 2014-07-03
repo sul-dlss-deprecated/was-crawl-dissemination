@@ -4,7 +4,7 @@ lock '3.2.1'
 set :rvm_type, :system
 set :rvm_ruby_string, 'ruby-1.9.3-p484'
 
-set :application, 'demo-bots'
+set :application, 'was-crawl-dissemination'
 set :repo_url, 'https://github.com/sul-dlss/was-crawl-dissemination.git'
 # set :branch, 'demoWF'
 
