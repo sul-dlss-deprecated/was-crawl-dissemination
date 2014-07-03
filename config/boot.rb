@@ -24,10 +24,13 @@ require 'lyber_core'
 
 # TODO Maybe move auto-require to just run_robot and spec_helper?
 Dir["#{ROBOT_ROOT}/lib/*.rb"].each { |f| require f }
-require 'cdx_generator_service'
-require 'cdx_merge_sort_publish_service'
-require 'path_indexer_service'
-require 'utilities'
+require 'cdx_generator'
+require 'cdx_merge_sort_publish'
+require 'path_indexer'
+
+
+
+
 
 env_file = File.expand_path(File.dirname(__FILE__) + "/./environments/#{environment}")
 puts "Loading config from #{env_file}"
