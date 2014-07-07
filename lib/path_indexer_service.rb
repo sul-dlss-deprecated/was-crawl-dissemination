@@ -6,7 +6,7 @@ module Dor
         @contentMetadata = contentMetadata
         @collection_path = collection_path
         
-        @main_path_index_file  = Dor::Config.was_crawl_dissemination.path_index_path
+        @main_path_index_file  = Dor::Config.was_crawl_dissemination.main_path_index_path
         
         @working_merged_path_index = "#{path_working_directory}/merged_path_index.txt"
         @working_sorted_duplicate_path_index = "#{path_working_directory}/duplicate_path_index.txt"
