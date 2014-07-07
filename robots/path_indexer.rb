@@ -16,7 +16,7 @@ module Robots
           contentMetadata = druid_obj.datastreams['contentMetadata']
           path_working_directory = Dor::Config.was_crawl_dissemination.path_working_directory
 
-          path_indexer_service = Dor::WASCrawl::PathIndexerService.new(collection_path,path_working_directory,contentMetadata.to_xml)
+          path_indexer_service = Dor::WASCrawl::PathIndexerService.new(collection_path,path_working_directory,contentMetadata.content)
           path_indexer_service.merge
           path_indexer_service.sort
           path_indexer_service.publish
