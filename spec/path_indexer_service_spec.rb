@@ -18,12 +18,13 @@ describe Dor::WASCrawl::PathIndexerService do
   context ".merge" do
     
     before(:all) do
+      @druid = "druid:dd111dd1111"
       @content_metadata_xml_location = "fixtures/metadata/"
     end
   
     it "should merge results from contentMetadata to the main path index" do
       contentMetadata = File.open(@content_metadata_xml_location+"contentMetadata_3files.xml").read
-      path_index_service = Dor::WASCrawl::PathIndexerService.new(@collection_path,@path_working_directory,contentMetadata)
+      path_index_service = Dor::WASCrawl::PathIndexerService.new(@druid,@collection_path,@path_working_directory,contentMetadata)
       path_index_service.instance_variable_set(:@main_path_index_file,"#{@stacks_path}/data/indecies/path/path-index.txt")
 
       path_index_service.merge
@@ -51,7 +52,7 @@ describe Dor::WASCrawl::PathIndexerService do
     it "should sort and remove duplicate frm the merged path index" do
       FileUtils.cp("#{@path_files}/merged_path_index.txt","#{@path_working_directory}/merged_path_index.txt")
 
-      path_index_service = Dor::WASCrawl::PathIndexerService.new(@collection_path,@path_working_directory,"")
+      path_index_service = Dor::WASCrawl::PathIndexerService.new(@druid,@collection_path,@path_working_directory,"")
       path_index_service.sort
       
       expected_duplicate_path_index = "#{@path_files}/duplicate_path_index.txt"
@@ -85,7 +86,7 @@ describe Dor::WASCrawl::PathIndexerService do
     it "should" do
       FileUtils.cp("#{@path_files}/path_index.txt","#{@path_working_directory}/path_index.txt")
 
-      path_index_service = Dor::WASCrawl::PathIndexerService.new(@collection_path,@path_working_directory,"")
+      path_index_service = Dor::WASCrawl::PathIndexerService.new(@druid,@collection_path,@path_working_directory,"")
       path_index_service.instance_variable_set(:@main_path_index_file,"#{@stacks_path}/data/indecies/path/test_path-index.txt")
 
       path_index_service.publish

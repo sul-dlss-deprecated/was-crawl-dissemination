@@ -2,7 +2,8 @@ module Dor
   module WASCrawl
     class PathIndexerService     
       
-      def initialize (collection_path, path_working_directory, contentMetadata)
+      def initialize (druid_id, collection_path, path_working_directory, contentMetadata)
+        @druid_id = druid_id
         @contentMetadata = contentMetadata
         @collection_path = collection_path
         
@@ -19,9 +20,10 @@ module Dor
         
         working_path_index_file = File.open(@working_merged_path_index, 'a')
         warc_file_list = Dor::WASCrawl::Dissemination::Utilities.get_warc_file_list_from_contentMetadata(@contentMetadata) 
+        druid_base_directory = DruidTools::AccessDruid.new(@druid_id,@collection_path).path
 
         warc_file_list.each do |warc_file_name|
-          record = "#{warc_file_name}\t#{@collection_path}/#{warc_file_name}\n"
+          record = "#{warc_file_name}\t#{druid_base_directory}/#{warc_file_name}\n"
           working_path_index_file.write(record)
         end
         

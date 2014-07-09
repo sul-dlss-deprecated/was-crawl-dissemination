@@ -17,7 +17,7 @@ describe Dor::WASCrawl::CDXGeneratorService do
   
   context ".generate_cdx_for_crawl" do
     before(:all) do
-      @druid_id_1 = "cc111cc1111"
+      @druid_id_1 = "dd111dd1111"
       @druid_id_2 = "dd111dd1111"
       @druid_id_3 = "ee111ee1111"
       @content_metadata_xml_location = "fixtures/metadata/"
