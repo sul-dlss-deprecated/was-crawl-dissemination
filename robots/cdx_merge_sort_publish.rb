@@ -9,6 +9,10 @@ module Robots
           super('dor', 'wasCrawlDisseminationWF', 'cdx-merge-sort-publish')
         end
 
+        # `perform` is the main entry point for the robot. This is where
+        # all of the robot's work is done.
+        #
+        # @param [String] druid -- the Druid identifier for the object to process
         def perform(druid)
 #          druid_obj = Dor::Item.find(druid)
           

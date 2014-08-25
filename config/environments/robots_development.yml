@@ -40,9 +40,6 @@
 #      - dor_accessionWF_technical-metadata: A: 5
 #
 
-#
-# Robot 1 (8 CPU) hosts shelving and publish only
-#
 sul-robots1-dev:
   - dor_wasCrawlDisseminationWF_cdx-generator
   - dor_wasCrawlDisseminationWF_cdx-merge-sort-publish

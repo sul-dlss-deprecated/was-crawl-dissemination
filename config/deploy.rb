@@ -63,8 +63,8 @@ namespace :deploy do
         # execute :bundle, :install
          
         # Comment with the first deploy
-        execute :bundle, :exec, :controller, :stop
-        execute :bundle, :exec, :controller, :quit
+        test :bundle, :exec, :controller, :stop
+        test :bundle, :exec, :controller, :quit
         
         # Always call the boot
         execute :bundle, :exec, :controller, :boot
