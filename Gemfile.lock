@@ -290,3 +290,6 @@ DEPENDENCIES
   rspec
   slop
   yard
+
+BUNDLED WITH
+   1.10.6
